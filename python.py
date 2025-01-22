@@ -18,3 +18,5 @@ def on_button_click(button):#funkce pro kliknuti
 for button in buttons: #cyklus for
     print(f'Listening to {button}')
     on_button_click(button) 
+
+#Fedorov, Čonka

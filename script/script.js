@@ -9,3 +9,5 @@ document.querySelectorAll(".Button-Buy").forEach(button => {
     addEventListener = poslouchej když někdo klikne třeba
     console.log = vypíše něco do console
 */
+
+//Fedorov, Čonka
